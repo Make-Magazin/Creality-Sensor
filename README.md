@@ -17,4 +17,4 @@ Danach bitte im Boardverwalter das Sanguino-Board installieren.
 
 Im Bibliotheksverwalten Installieren Sie bitte U8GLib
 
-Den vollständigen Artikel gibt es in der Make-Ausgabe 6/19 ab Seite XX zu lesen. 
+Den vollständigen Artikel gibt es in der Make-Ausgabe 6/19 ab Seite 110 zu lesen. 
